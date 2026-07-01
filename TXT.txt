@@ -1,0 +1,4 @@
+jkllll
+<link rel="stylesheet" type="text/x-scss" href={% static "v2/scss/onboard.scss" %} />
+<link rel="stylesheet" type="text/x-scss" href={% static "v2/scss/onboard.scss" %} /> 
+<p id="prev-btn" class="btn btn-outline-primary" onclick="changeStep(-1)">{% trans "Previous" %}</p>
